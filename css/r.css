@@ -1,0 +1,41 @@
+button{
+  background-color: darkred;
+}
+
+
+body{
+  background-color: chartreuse;
+}
+
+
+.form{
+  border: 1px black;
+}
+
+.ayam input[type=submit]{
+  color: darkred;
+}
+
+.login-page form{
+  width: 255px;
+  margin: 0px auto;
+  margin-top: 200px;
+  border: 12px solid red;
+  border-radius: 0px;
+  background: radial-gradient(darkgreen, black);
+  padding: 29px 23px 23px 11px;/*0.5 = opacity*/
+}
+
+.login-page form input[type=submit]{
+  background-color: lightseagreen;
+  color: darkred;
+  height: 35px;
+  width: 61px;
+}
+
+.butt{
+  background-color: lightseagreen;
+  color: darkred;
+  height: 35px;
+  width: 61px;
+}

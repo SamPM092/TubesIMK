@@ -1,0 +1,110 @@
+body{
+  margin: 0;
+}
+
+h3{
+  font-family: fantasy ;
+  text-align: center;
+  font-size: 25px;
+}
+
+.login-page form input[type=text], .login-page form input[type=password], .login-page form input[type=submit]{
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+}
+
+.login-page form input[type=submit]{
+  background-color: #ff7700;
+  color: white;
+  border-radius: 5px;
+}
+
+.logo img{
+  padding: 5px 20px;
+
+}
+
+.panel{
+  width: 250px;
+  background-color: #231616;
+  height: 169%;
+  float: left;
+}
+
+.panel ul{
+  list-style: none;
+  width: 219px;
+}
+
+.panel ul li{
+  padding: 8px 0px;
+  border-bottom-style: groove;
+  color: black;
+}
+
+.panel ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.panel ul li a:hover{
+    color: gold
+  }
+
+.login-page{
+
+}
+
+.login-page form{
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 200px;
+  border: 1px solid darkred;
+  padding: 10px 23px 20px 11px;
+  border-radius: 5px;
+  background: rgba(255,255,255,0.75); /*0.5 = opacity*/
+}
+
+.login-page form input{
+  background-color: black;
+  color: white;
+}
+
+.header{
+  background-color: brown;
+}
+
+.logo img{
+  padding: 5px 20px;
+}
+
+.content{
+  margin-left: 300px;
+  padding: 20px;
+
+}
+
+
+.back{
+  padding: 10px 20px;
+    background-color: white;
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 800;
+    color: black;s
+}
+
+.list_tugas{
+    margin: 15px;
+    border: 1px solid darkred;
+    color: white;
+    background-color: black;
+    padding: 1px 15px 13px 11px;
+    border-radius: 48px;
+}
+
+.tugas{
+  margin: 9px;
+}
