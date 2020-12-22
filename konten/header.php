@@ -1,3 +1,7 @@
+<?php
+$con = mysqli_connect('localhost','root','','bimbingan');
+ ?>
+
 <html>
     <head>
           <title></title>
@@ -19,6 +23,7 @@
               <div class="panel">
         <ul>
           <li><a href="index.php">Home</a></li>
+          <!-- <li><a href="upload.php">Syarat</a></li> -->
           <li><a href="../index.php">Logout</a></li>
         </ul>
       </div>
