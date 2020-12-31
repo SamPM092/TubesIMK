@@ -38,11 +38,9 @@ if (isset($_POST['login']) && $_POST['login'] == "LOGIN") {
       <div style="color: white; font-size: 12px"><center>Belum memiliki akun? Register akun di <a href="register.php" style="color: red">sini</a></center></div>
        <span class="tombol">
       <input type="submit" name="login" value="LOGIN">
-      <button type="submit" class="keluar" style="margin-left: 30px;"><a href="../index.php" style="text-decoration: none; color: crimson">Kembali</a></button>
+      <button type="submit" class="keluar" style="margin-left: 30px;"><a href="index.php" style="text-decoration: none; color: crimson">Kembali</a></button>
        </span>
     <br>
    </form>
    </div>
-
-  <div><a href="konten/index.php">TOMBOL SEMENTARA</a></div>
  </body>
