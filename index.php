@@ -20,7 +20,7 @@
       <div class="login_button">
   <ul class="navbar-nav">
     <li class="nav-item1">
-      <a class="nav-link" href="index.php">LOGIN</a>
+      <a class="nav-link" href="login.php">LOGIN</a>
     </li>
   </ul>
 </div>
@@ -59,6 +59,11 @@
           Wisuda ini sifatnya lebih ke seremoni atau perayaan kelulusan saja. Jadwalnya tidak selalu berdekatan dengan yudisium.  Wisuda ini jugalah yang menandai akhir petualangan kita sebagai mahasiswa S-1 walaupun sebenarnya, kita sudah menjadi sarjana setelah yudisium.</p>
           </p>
         </div>
+      </div>
+     <div class="pass">
+        <center>
+          <a href="lupa_pass.php"><button>LUPA PASSWORD</button></a>
+        </center>
       </div>
     </div>
 
